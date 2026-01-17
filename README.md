@@ -29,5 +29,5 @@ I enjoy transforming raw data into meaningful insights.
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: www.linkedin.com/in/kashish-jawade)
+- LinkedIn: www.linkedin.com/in/kashish-jawade
 - Email: kashishjawade82@gmail.com
